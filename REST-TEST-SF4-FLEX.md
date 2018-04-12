@@ -51,7 +51,7 @@ curl -i -X PUT -d '{"id": 1, "name":"ASIMO","type":"humanoid","year":2000}' http
 Пример
 curl -i -X DELETE http://example.com/api/robots/4
 
-## Данный REST API нужно сделать используя фрэймвор SymfonyFlex и базу данных Mysql/MariaDB/Postgress
+## Данный REST API нужно сделать используя фрэймворк SymfonyFlex и базу данных Mysql/MariaDB/Postgress
 
 Результат работы должен оказаться в GIT репозитории
 
